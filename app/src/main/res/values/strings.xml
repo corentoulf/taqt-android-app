@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Taqt</string>
+    <string name="edit_message">Edit name</string>
+    <string name="button_send">Save</string>
+    <string name="btn_scan_nfc">Scan NFC</string>
+    <string name="explain_process">Présentez un badge NFC Taqt sur votre téléphone et maintenez-le plaqué jusqu\'à ce que le processus soit terminé.</string>
+    <string name="tag_detected">Tag détecté :</string>
+    <string name="tag_write_update_success">Encryption mise à jour !</string>
+    <string name="tag_write_add_success">Encryption ajoutée !</string>
+    <string name="tag_write_failed">Il y a eu un problème. Fermez l\'application et recommencez.</string>
+</resources>
